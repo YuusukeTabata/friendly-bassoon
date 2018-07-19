@@ -1,0 +1,27 @@
+{"images":
+  [
+    {
+        "license": 5,
+        "file_name": "COCO_train2014_000000057870.jpg",
+        "coco_url": "http://mscoco.org/images/57870",
+        "height": 480,
+        "width": 640,
+        "date_captured": "2013-11-14 16:28:13",
+        "flickr_url": "http://farm4.staticflickr.com/3153/2970773875_164f0c0b83_z.jpg",
+        "id": 57870
+    },
+    {
+        "license": 5,
+        "file_name": "COCO_train2014_000000384029.jpg",
+        "coco_url": "http://mscoco.org/images/384029",
+        "height": 429,
+        "width": 640,
+        "date_captured": "2013-11-14 16:29:45",
+        "flickr_url": "http://farm3.staticflickr.com/2422/3577229611_3a3235458a_z.jpg",
+        "id": 384029
+    }
+  ],
+  "annotations": [
+    {"image_id": 10001, "tokenized_caption": "サッカー の 試合 で 選手 が ボール を キック しようと している", "id": 10001},{"image_id": 0002, "tokenized_caption": "サッカー の 試合 で 選手 が ボール を キック しようと している", "id": 0002}
+  ]
+}
